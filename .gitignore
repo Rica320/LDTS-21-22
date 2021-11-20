@@ -1,2 +1,7 @@
 week 1/
 week 2/
+.idea/
+.gradle/
+out/
+build/
+*.iml
